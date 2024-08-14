@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_4","characterIndex":1,"characterName":"Damage3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"SRb","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"ben2battle","characterIndex":0,"characterName":"ben2walk","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ben2","traits":[],"initialLevel":2,"maxLevel":99,"name":"ben","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"joefight","characterIndex":0,"characterName":"joe","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"joe","traits":[],"initialLevel":1,"maxLevel":99,"name":"zek","nickname":"","note":"","profile":""}
+]

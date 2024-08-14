@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"SLIPKNOT","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_7","characterIndex":2,"characterName":"SF_Monster","classId":5,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"PANTERA","nickname":"","note":"","profile":""}
+]

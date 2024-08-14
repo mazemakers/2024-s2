@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"person","characterIndex":0,"characterName":"person","classId":6,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"person","traits":[],"initialLevel":1,"maxLevel":99,"name":"Link","nickname":"Linly","note":"","profile":"A powerful swordsman who a bit of magic and infinet\nBravery"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Boing","nickname":"woofy","note":"","profile":"A brave strong dog and he loves to jump but never fights"},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cfitty","nickname":"","note":"","profile":"A cute Kitty he has powerful magic ability's but will\nnever fight."},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Patheticfig","nickname":"","note":"","profile":"A funny and brave sorcerer But never fights she's \nvery embaressed about her name."},
+{"id":5,"battlerName":"","characterIndex":3,"characterName":"Nature","classId":7,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Shelly","nickname":"","note":"","profile":"A shy little fox, she loves to eat but never fights."}
+]
